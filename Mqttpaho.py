@@ -26,4 +26,4 @@ publish.single("devices/c4fa4ead-f0dc-46c2-9db3-7963267c9d98/messages/events/",
   tls=tls,
   port=8883,
   protocol=mqtt.MQTTv311)
-
+print("hello");
