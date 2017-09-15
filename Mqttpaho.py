@@ -3,7 +3,7 @@
 import paho.mqtt.publish as publish
 import paho.mqtt.subscribe as subscribe
 import paho.mqtt.client as mqtt
-import ssl
+#import ssl
 
 auth = {
   'username':"EdgeClientIOTHub.azure-devices.net/c4fa4ead-f0dc-46c2-9db3-7963267c9d98/api-version=2016-11-14",
